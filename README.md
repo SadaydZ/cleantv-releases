@@ -6,6 +6,7 @@ Each app has its own releases, tagged `<app>-v<version>`.
 | App | What it is | Latest |
 |---|---|---|
 | **SIMKL Tracker** (`com.cleantv.tracker`) | Your movies, series and anime on the phone, synced with [SIMKL](https://simkl.com): Up Next, Upcoming, your lists, search, episode marking, ratings, Where to Watch, trailers, and automatic tracking of what you watch in Netflix, Disney+, Prime Video, Crunchyroll and others. | [Releases](../../releases?q=simkl-tracker) |
+| **TV Home + TV Remote** (`com.gathin.tvhome`, `com.cleantv.remote`) | Released together, tagged `tv-home-v…`: the TV's home screen (the [CleanYourTV](https://github.com/Gathin23/cleanyourtv) launcher, MIT, with the family's additions: Quick Panel, Now Playing, the Companion service), and the phone remote that pairs with it (D-pad, keyboard, apps, inputs, Now Playing, the TV's screen live). The remote remembers each TV and connects to whichever is on your Wi-Fi. | [Releases](../../releases?q=tv-home) |
 
 ## Install on an Android phone
 
